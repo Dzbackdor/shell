@@ -3,8 +3,6 @@
 <!--
 p {MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%}-->
 </style>
-<meta name="keywords" content=" Uploder File">
-<meta name="description" content=" Uploder File">
 </head>
 
 <title>&nbsp;Uploder File</title>
